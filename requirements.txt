@@ -1,0 +1,42 @@
+# Core dependencies
+torch>=1.13.0
+torchvision>=0.14.0
+torchaudio>=0.13.0
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Audio processing
+librosa>=0.8.1
+soundfile>=0.10.3
+audioread>=2.1.9
+
+# Visualization and logging
+matplotlib>=3.3.0
+tensorboard>=2.8.0
+tqdm>=4.62.0
+
+# Audio quality metrics
+pesq>=0.0.3
+auraloss>=0.3.0
+
+# Neural audio processing
+nnAudio>=0.3.0
+
+# Image processing (for video frames)
+Pillow>=8.0.0
+imageio>=2.9.0
+
+# Evaluation metrics
+mir_eval>=0.7
+
+# Build tools
+ninja>=1.10.0
+
+# Model hub
+huggingface_hub>=0.23.4
+
+# Optional but recommended
+# jupyter>=1.0.0
+# ipython>=7.0.0
+
+
