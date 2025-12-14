@@ -272,10 +272,10 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{diffbinaural2024,
-  title={DiffBinaural: Diffusion-based Binaural Audio Generation},
-  author={Your Name},
-  journal={arXiv preprint},
-  year={2024}
+  title={Binaural Audio Generation using Diffusion Models Conditioned on Visual and Positional Features of Sound Sources},
+  author={Haruka Okano, Ryohei Orihara, Yasuyuki Tahara, Yuichi Sei},
+  journal={},
+  year={2025}
 }
 ```
 
